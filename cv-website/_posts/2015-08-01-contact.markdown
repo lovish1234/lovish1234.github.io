@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Contact Lens Detection for Iris Recongition"
+date:   2015-08-01 21:21:53 +00:00
+image: /images/old_projects/contact_lens.png
+categories: earlier
+venue: Computer Analysis of Image and Patterns
+paper: /pdfs/papers/CAIP_2015.pdf
+report: /pdfs/reports/thesis.pdf
+slides: /pdfs/reports/thesis_slides.pdf
+---
+Collected a dataset in which users are wearing soft and cosmetic contact lenses. Emperically proved
+that a person wearing either of those lenses leads to an average degradation of 3.10% in EER when subject is wearing soft lens and 17.34% when subject is wearing cosmetic lens. Further, we propose
+a cosmetic lens detection approach based on Local Phase Quantization(LPQ) and Binary Gabor Pattern(BGP).  Experiments conducted on publicly available IIITD Vista, IIITD Cogent,
+ND 2010 and self-collected dataset indicate that our method outperforms previous lens detection techniques in terms of Correct Classification Rate and false Acceptance Rate. The
+results suggest that a comprehensive texture descriptor having blur tolerance of LPQ and
+robustness of BGP is suitable for cosmetic lens detection.
+
+
