@@ -2,7 +2,9 @@
 layout: post
 title:  "Encoding Unertainity in Video Representation Learning"
 categories: research
-authors: <strong>Lovish Chum</strong>, with Ruoshi Liu
+authors: <strong>Lovish Chum</strong>, with Ruoshi Liu and Carl Vondrick
 image: /images/new_projects/uncertain.png
+venue: Independent Study
 ---
+Can stochasticity of future in videos help learn better representations ? To answer this question, we We build our experiments on top of Dense Predictive Coding, a self-supervised representation technique. Emperical results on 
 

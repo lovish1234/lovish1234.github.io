@@ -2,7 +2,7 @@
 layout: post
 title:  "Optional Depth Pathway for Mask R-CNN"
 categories: research
-authors: <strong>Lovish Chum</strong>, Jianjin Xu and Zhaoyang Wang
+authors: <strong>Lovish Chum</strong>, with Jianjin Xu and Zhaoyang Wang
 image: /images/new_projects/ODP_depth.gif
 report: /pdfs/reports/odp.pdf
 code: https://github.com/lovish1234/ODP
