@@ -6,5 +6,5 @@ authors: <strong>Lovish Chum</strong>, with Ruoshi Liu and Carl Vondrick
 image: /images/new_projects/uncertain.png
 venue: Independent Study
 ---
-Can stochasticity of future in videos help learn better representations ? To answer this question, we We build our experiments on top of Dense Predictive Coding, a self-supervised representation technique. Emperical results on 
+Can stochasticity of future in videos help learn better representations ? To answer this question, we relax the point-based contrastive loss to a n-shpere based contrastive loss. We build our experiments on top of Dense Predictive Coding, a self-supervised representation technique.  Training on Kinetics-400 and fine-tuning on UCF-101, HMDB-51 help us understand that the later two datasets do not contain videos with diverse futures. Hence, we build a _block toy_ dataset to control of stochasticity and evaluate the technique. 
 

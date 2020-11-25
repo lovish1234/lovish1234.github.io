@@ -13,17 +13,15 @@
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/academicons.min.css">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-  <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30336262-1"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'UA-30336262-1');
+    gtag('config', '{{ site.google_analytics }}');
   </script>
 
 </head>
@@ -302,8 +300,8 @@
           <tr>
             <td style="padding:0px">
               <br>
-              <p style="text-align:center;font-size:xx-small;">
-                Thanks <a style="font-size:small;" href="https://jonbarron.info">Jon Barron</a> for source
+              <p style="text-align:right;font-size:xx-small;">
+                Thanks <a style="font-size:xx-small;" href="https://jonbarron.info">Jon Barron</a> for source
               </p>
             </td>
           </tr>
