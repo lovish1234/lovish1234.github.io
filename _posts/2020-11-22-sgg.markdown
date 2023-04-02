@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: post
 title:  "Spatio-temporal Scene Graph Generation (Ongoing)"
-categories: research
+categories: earlier
 authors: <strong>Lovish Chum</strong>, with Xudong Lin and Carl Vondrick
 image: /images/new_projects/sgg.png
 venue: Part of MS thesis
----
+--- -->

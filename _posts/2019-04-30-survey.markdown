@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beyond Supervised Learning: A Computer Vision Perspective"
-categories: research
+categories: earlier
 authors: <strong>Lovish Chum</strong>, Anbumani Subramanian, Vineeth N. Balasubramanian & C. V. Jawahar
 image: /images/new_projects/survey_2.png
 subtitle: "Hand Tracking"

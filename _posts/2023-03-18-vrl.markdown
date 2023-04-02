@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Multimodal Event Graphs: Towards Event Centric Understanding of Multimodal World"
+categories: research
+authors: Georgios Paraskevopoulos, Chandrashekhar Lavania, <strong> Lovish Chum </strong>, Shiva Sundaram
+image: /images/new_projects/vrl.png
+venue: ICASSP
+paper: /pdfs/projects/ICASSP_2023.pdf
+---
+Combining simple concepts to form structured thoughts and decomposing complex concepts into their constituents is one key characteristic of human cognition. In this work, we extract video representations by combining multi-scale processing with compositional constraints, i.e., we constrain the latent space created by the network so that coarse grained video features are composed from a set of fine-grained video features using simple functions. We integrate the proposed constraints in a state-of-the-art contrastive learning framework. In our ablations, we evaluate different formulations of the compositional constraints and composition functions. We evaluate the proposed approach for the downstream tasks of action detection in UCF-101, and video summarization in the SumMe dataset. We achieve significant improvements over the baseline, i.e., 3.9% and 6.3% relative improvements for UCF-101 and SumMe respectively, showcasing the importance of compositional video representations.

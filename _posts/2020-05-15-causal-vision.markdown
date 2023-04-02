@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Causal Physical Reasoning"
-categories: research
+categories: earlier
 authors: <strong>Lovish Chum</strong>, with Chengzhi Mao
 image: /images/new_projects/causal.gif
 venue: Causal Inference Course 
