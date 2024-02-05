@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Multimodal Event Graphs: Towards Event Centric Understanding of Multimodal World"
+title: "Beyond Grounding: Extracting Fine-Grained Event Hierarchies across Modalities"
 categories: research
 authors: Hammad A. Ayyubi, Christopher Thomas, <strong>Lovish Chum</strong>, Rahul Lokesh, Yulei Niu, Xudong Lin, Long Chen, Jaywon Koo, Sounak Ray, and Shih-Fu Chang
 image: /images/new_projects/mmeg.png
-venue: arXiv
+venue: AAAI 2024
 paper: /pdfs/projects/arXiv_2022.pdf
 ---
 Understanding how events described or shown in multimedia content relate to one another is a critical component to developing robust artificially intelligent systems which can reason about real-world media. While much research has been devoted to event understanding in the text, image, and video domains, none have explored the complex relations that events experience across domains. For example, a news article may describe a "protest" event while a video shows an "arrest" event. Recognizing that the visual "arrest" event is a subevent of the broader "protest" event is a challenging, yet important problem that prior work has not explored. In this paper, we propose the novel task of MultiModal Event Event Relations to recognize such cross-modal event relations. We contribute a large-scale dataset consisting of 100k video-news article pairs, as well as a benchmark of densely annotated data. We also propose a weakly supervised multimodal method which integrates commonsense knowledge from an external knowledge base (KB) to predict rich multimodal event hierarchies. Experiments show that our model outperforms a number of competitive baselines on our proposed benchmark. We also perform a detailed analysis of our model's performance and suggest directions for future research.
